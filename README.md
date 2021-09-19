@@ -1,2 +1,2 @@
 # Internship
-Internship projects and works assigned
+Assignments and projects worked as part of internship at Flip Robo Technologies
